@@ -1,0 +1,10 @@
+**/*-backups
+.DS_Store
+*.swp
+*.swo
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+*.o
